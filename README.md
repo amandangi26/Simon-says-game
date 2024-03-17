@@ -1,1 +1,1 @@
-# it-s-is-my-first-repo.
+# Simon says game
