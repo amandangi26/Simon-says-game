@@ -1,0 +1,70 @@
+body{
+    display:grid;
+    place-items: center;
+    
+     
+   }
+   
+   
+   .box{
+     display: flex;
+     height: 300px;
+     width: 300px;
+     margin-top: 50px;
+     align-items: center;
+     
+    
+   
+   }
+   .l1{
+     height: 300px;
+     width: 160px;
+     
+    
+     
+   
+   }
+   .l2{
+     height: 300px;
+     width: 160px;
+     
+     
+   
+   }
+   .red{
+     height: 150px;
+     width: 150px;
+     background-color: #EB5123;
+     
+   }
+   .blue{
+     height: 150px;
+     width: 150px;
+     background-color: #04A1E9;  
+   }
+   .green{
+     height: 150px;
+     width: 150px;
+    
+     background-color: #7EB508;
+     
+     
+   }
+   .yello{
+     height: 150px;
+     width: 150px;
+     background-color: #F7B407;
+    
+   }
+   .red,.blue,.green,.yello{
+     border-radius: 10px; 
+     border: 2px solid black;
+      margin:5px;
+    
+   }
+   .flash{
+   background-color: white;
+   }
+   .userflash{
+     background-color: aqua; 
+   }
